@@ -1,0 +1,33 @@
+nav {
+  background-color: #2b2b2b;
+  color: #fff;
+}
+
+nav ul {
+  height: 70px;
+  display: flex;
+  align-items: center;
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+a:link {
+  color: white;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: white;
+}
+a:active {
+  color: white;
+}
